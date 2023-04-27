@@ -1,0 +1,23 @@
+{
+  "name": "capture-metabsae-dashboard-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanksudo/capture-metabsae-dashboard-to-pdf.git"
+  },
+  "keywords": [],
+  "author": "Hank Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanksudo/capture-metabsae-dashboard-to-pdf/issues"
+  },
+  "homepage": "https://github.com/hanksudo/capture-metabsae-dashboard-to-pdf#readme",
+  "devDependencies": {
+    "puppeteer": "^19.11.1"
+  }
+}
